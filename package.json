@@ -1,6 +1,6 @@
 {
-  "name": "react-filter-box",
-  "version": "3.3.0",
+  "name": "@appbaseio/react-filter-box",
+  "version": "3.3.1",
   "description": "Conditional filter supports OR/AND, bracket, Highlighting, Autocomplete, and high extensibility   ",
   "scripts": {
     "start": "node server.js",
