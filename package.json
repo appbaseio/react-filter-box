@@ -1,6 +1,6 @@
 {
   "name": "@appbaseio/react-filter-box",
-  "version": "3.3.1",
+  "version": "3.4.1",
   "description": "Conditional filter supports OR/AND, bracket, Highlighting, Autocomplete, and high extensibility   ",
   "scripts": {
     "start": "node server.js",
@@ -70,8 +70,8 @@
     "react-test-renderer": "^16.6.3",
     "sinon": "^7.1.1",
     "style-loader": "^0.23.1",
-    "tslint": "^5.17.0",
     "ts-loader": "^6.2.1",
+    "tslint": "^5.17.0",
     "typescript": "^3.2.1",
     "webpack": "^4.27.0",
     "webpack-cli": "^3.1.2",
